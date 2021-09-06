@@ -2,6 +2,8 @@
 
 This is a project I made off frontendmentor.io
 
+![alt text](https://i.imgur.com/KnpwDTW.png)
+
 ## Installation
 
 Upload all contents into your webserver
